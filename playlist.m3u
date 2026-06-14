@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 group-title="TDA",Cannes TV
+https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+#EXTINF:-1 group-title="TDA",News 12 NY English
+https://aegis-cloudfront-1.tubi.video/97fbb992-c212-4164-8406-abb6f731e517/playlist.m3u8
+#EXTINF:-1 group-title="TDA",NBC 1 English
+https://hls2.nbcplus.na/hls/high_nbc1.m3u8
+#EXTINF:-1 group-title="TDA",ABC News English
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1 group-title="TDA",Minformo Italian
+https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1 group-title="TDA",Canal 122 Italian
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 group-title="TDA",Das Erste German
+https://s6.hopslan.com/ardX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TDA",Dokusat German
+https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+#EXTINF:-1 group-title="TDA",America TV Spanish
+https://live.gideo.video/americateve2/master.m3u8
+#EXTINF:-1 group-title="TDA",Canal 24H Spanish
+http://177.10.184.193:8000/play/a06a/index.m3u8
+#EXTINF:-1 group-title="TDA",Record News Portuguese
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 group-title="TDA",Tvideo News Portugues
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+#EXTINF:-1 group-title="TDA",Cricket Tv English
+https://streams2.sofast.tv/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 group-title="TDA",Golf TV English
+https://30a-tv.com/feeds/vidaa/golf.m3u8
+#EXTINF:-1 group-title="TDA",Africa Sport
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 group-title="TDA",Equidia French
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
+#EXTINF:-1 group-title="TDA",HITS Comedie French
+https://d3nvxupr08boay.cloudfront.net/playlist.m3u8
